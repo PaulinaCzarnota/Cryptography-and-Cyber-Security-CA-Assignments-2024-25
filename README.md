@@ -1,6 +1,6 @@
 This repository contains my CA assignments for the Cryptography and Cyber Security module, completed during my third year of Computer Science studies at TU Dublin.
 
-# Assignment 1: Lab Report
+# CA 1: Lab Report
 
 ### Overview
 
@@ -22,7 +22,7 @@ This assignment consists of **five labs** of my choice, each covering different 
 * Configured iptables rules on Kali to allow only essential services and block all others.
 * Practiced secure file encryption and digital signing with GnuPG.
 
-# Assignment 2: Final Cryptography & Cybersecurity Project
+# CA 2: Final Cryptography & Cyber Security Assignment
 
 ### Overview
 
